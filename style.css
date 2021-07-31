@@ -116,3 +116,7 @@ body {
   min-height: calc(100vh - 50px);
   color: white;
 }
+
+.content-container {
+  margin-left: 50px;
+}
