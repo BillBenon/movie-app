@@ -110,3 +110,9 @@ body {
   font-size: 20px;
   margin-bottom: 40px;
 }
+
+.container {
+  background-color: #151515;
+  min-height: calc(100vh - 50px);
+  color: white;
+}
