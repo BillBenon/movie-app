@@ -13,3 +13,12 @@ body {
   position: sticky;
   top: 0;
 }
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  padding: 0 50px;
+  height: 100%;
+  color: white;
+  font-family: "Sen", sans-serif;
+}
