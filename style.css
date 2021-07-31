@@ -26,3 +26,8 @@ body {
 .logo-container {
   flex: 1;
 }
+
+.logo {
+  font-size: 30px;
+  color: #4dbf00;
+}
