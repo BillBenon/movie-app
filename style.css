@@ -35,3 +35,8 @@ body {
 .menu-container {
   flex: 6;
 }
+
+.menu-list {
+  display: flex;
+  list-style: none;
+}
