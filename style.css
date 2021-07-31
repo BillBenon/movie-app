@@ -31,3 +31,7 @@ body {
   font-size: 30px;
   color: #4dbf00;
 }
+
+.menu-container {
+  flex: 6;
+}
