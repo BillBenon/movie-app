@@ -18,9 +18,9 @@ arrows.forEach((arrow, i) => {
     });
   
     console.log(Math.floor(window.innerWidth / 270));
-  });
+});
 
-  //TOGGLE
+//TOGGLE
 
 const ball = document.querySelector(".toggle-ball");
 const items = document.querySelectorAll(
